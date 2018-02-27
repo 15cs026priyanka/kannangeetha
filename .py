@@ -1,0 +1,5 @@
+lower_limit("enter a lower limit")
+upper_ limit("enter a upper limit")
+for a range from(lower limit,upper limit)
+if(a%20)
+print("print the value of a")
